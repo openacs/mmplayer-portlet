@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="mmplayer-portlet" package_version="1.0" locale="en_US" charset="ISO-8859-1">
+
+  <msg key="Add_a_MMPlayer_Item">Add one resource</msg>
+  <msg key="admin_pretty_name">MMPlayer Administration</msg>
+  <msg key="Manage_MMPlayer">Admin MMPlayer</msg>
+  <msg key="pretty_name">MMPlayer</msg>
+</message_catalog>
